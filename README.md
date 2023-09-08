@@ -29,19 +29,17 @@ public class JobSearch {
         scanner.close();
     }
 }
-
 ```
 
 <br>
 
+<!-- illustration by: https://storyset.com/technology -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="coding_dark.gif">
   <img align="right" alt="programming light" src="coding_light.gif">
 </picture>
 
 <br>
-
-
 
 - 🔭 I’m currently studying on **becoming a frontend web developer**.
 
@@ -59,8 +57,6 @@ public class JobSearch {
 
 <br>
 <br>
-
-
 
 ## 🏆 Goals
 
@@ -105,9 +101,20 @@ public class JobSearch {
 
 <br>
 
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustANipple&layout=compact&theme=dark)
+
+</div>
+<br>
+
 <div align = "center">
 
 <h2 align="center">🛠️ Languages and Tools</h2>
+
+</div>
 
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
@@ -148,4 +155,14 @@ public class JobSearch {
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 </details>
 
+</div>
+
+<br>
+
+##
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Readme Quotes">
+  </a>
 </div>
