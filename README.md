@@ -45,7 +45,7 @@ public class JobSearch {
 
 - 🌱 I’m currently learning **React**.
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
+- 👯 I’m looking to collaborate on **new open-source projects**.
 
 - 🤔 I’m looking for help with **React**.
 
