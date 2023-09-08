@@ -7,8 +7,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Programming_dark.gif">
-  <img align="right" alt="programming light" src="Programming_light.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="coding_dark.gif">
+  <img align="right" alt="programming light" src="coding_light.gif">
 </picture>
 
 <!--
