@@ -6,6 +6,10 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Programming_dark.gif">
+  <img align="right" alt="programming light" src="Programming_light.gif">
+</picture>
 
 <!--
 **JustANipple/JustANipple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
