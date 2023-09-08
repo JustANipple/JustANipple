@@ -1,4 +1,4 @@
-![Samuel Prandi Thumbnail](thumbnail.jpg)
+![Samuel Prandi Thumbnail](intro-thumbnail.jpg)
 
 <p>I'm a self-taught developer with a passion for web programming. My goal is to offer a responsive, accessible, dynamic and mantainable websites to enhance the user experience. I try to learn something new every day to discover new ways to achieve the best solution</p>
 
