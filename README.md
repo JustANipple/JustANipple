@@ -41,15 +41,15 @@ public class JobSearch {
 
 <br>
 
-- 🔭 I’m currently studying on **becoming a full stack developer**.
+- 🔭 I’m currently studying on **becoming a full stack web developer**.
 
-- 🌱 I’m currently learning **Flutter**.
+- 🌱 I’m currently learning **Vue**.
 
 - 👯 I’m looking to collaborate on **new open-source projects**.
 
-- 🤔 I’m looking for collaborations in **Flutter**.
+- 🤔 I’m looking for collaborations in **Vue**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, .NET, React, SQL**.
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, .NET, React, SQL, Vue**.
 
 - 📫 How to reach me: **prandisamuel99@gmail.com**.
 
@@ -162,6 +162,7 @@ public class JobSearch {
 ![Nuget](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -176,6 +177,7 @@ public class JobSearch {
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 </details>
 
 <details open>
